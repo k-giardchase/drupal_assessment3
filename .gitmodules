@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/comment_form"]
+	path = sites/all/modules/comment_form
+	url = https://github.com/k-giardchase/comment_form.git
